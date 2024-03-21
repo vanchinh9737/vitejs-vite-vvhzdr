@@ -75,7 +75,7 @@ export const Formik = () => {
         />
       ) : null}
       <hr />
-      <label htmlFor="email">Email Address</label>
+      <label htmlFor="email">Email Address   Email Address </label>
       <input
         id="email"
         name="email"
